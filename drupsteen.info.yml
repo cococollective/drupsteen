@@ -1,0 +1,6 @@
+name: Drupsteen
+type: theme
+description: 'A simple base theme.'
+package: Other
+core: 8.x
+base theme: classy

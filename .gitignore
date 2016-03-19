@@ -1,0 +1,11 @@
+# Ignore composer vendor dir.
+/vendor/
+
+# Ignore composer.lock file.
+/composer.lock
+
+# Ignore PhpStorm files.
+/.idea/
+
+# Ignore temporary files.
+/tmp/

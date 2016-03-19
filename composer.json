@@ -1,0 +1,17 @@
+{
+    "name": "cococollective/drupsteen",
+    "type": "drupal-theme",
+    "description": "A simple Drupal base theme.",
+    "keywords": ["Drupal"],
+    "license": "GPL-2.0+",
+    "homepage": "https://github.com/cococollective/drupsteen",
+    "authors": [{
+        "name": "Sierk Beij",
+        "email": "sierk@cococollective.org",
+        "role": "Lead developer for CocoCollective"
+    }],
+    "extra": {
+        "branch-alias": {"dev-8.x-0.x": "8.0.x-dev"}
+    },
+    "non-feature-branches": ["archived-*", "abandoned-*"]
+}
